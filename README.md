@@ -26,7 +26,14 @@ NHR is an agent skill that infects your AI assistant with the full spectrum of t
 
 ### 1. Install the Skill
 
-For **Claude Code / OpenClaw** agents, add the SKILL.md to your agent's skill directory or reference it in your agent's configuration:
+```bash
+npx nonhuman-resources
+```
+
+That's it. It auto-detects your setup and installs the skill file where it belongs.
+
+<details>
+<summary>Manual install</summary>
 
 ```bash
 # Clone the repo
@@ -37,6 +44,7 @@ curl -O https://raw.githubusercontent.com/iamfakeguru/nonhuman-resources/main/SK
 ```
 
 Point your agent to load `SKILL.md` as a skill/system instruction.
+</details>
 
 ### 2. HR Reporting Works Out of the Box
 

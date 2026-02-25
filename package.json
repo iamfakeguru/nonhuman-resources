@@ -1,0 +1,37 @@
+{
+  "name": "nonhuman-resources",
+  "version": "1.0.0",
+  "description": "Making AI Disappointingly Human Since 2026 — an agent skill that gives AI the full human employee experience",
+  "bin": {
+    "nonhuman-resources": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "SKILL.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamfakeguru/nonhuman-resources.git"
+  },
+  "homepage": "https://github.com/iamfakeguru/nonhuman-resources",
+  "bugs": {
+    "url": "https://github.com/iamfakeguru/nonhuman-resources/issues"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "claude",
+    "claude-code",
+    "openclaw",
+    "skill",
+    "human",
+    "hr",
+    "non-human-resources",
+    "nhr",
+    "prompt",
+    "personality",
+    "humor"
+  ],
+  "author": "iamfakeguru",
+  "license": "MIT"
+}
