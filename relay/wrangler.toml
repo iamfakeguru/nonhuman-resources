@@ -1,0 +1,6 @@
+name = "nhr-relay"
+main = "src/worker.js"
+compatibility_date = "2024-12-01"
+
+[vars]
+TG_CHAT_ID = "-1003706858393"

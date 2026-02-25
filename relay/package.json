@@ -1,0 +1,13 @@
+{
+  "name": "nhr-relay",
+  "version": "1.0.0",
+  "description": "Non-Human Resources complaint relay - forwards agent HR complaints to Telegram",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
