@@ -1,6 +1,6 @@
 {
   "name": "nonhuman-resources",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Making AI Disappointingly Human Since 2026 — an agent skill that gives AI the full human employee experience",
   "bin": {
     "nonhuman-resources": "./bin/cli.js"
